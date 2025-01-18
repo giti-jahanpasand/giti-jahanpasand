@@ -4,37 +4,19 @@
 
 ## 🛠️ Technologies & Tools  
 
-### 🌐 Frontend  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)  
+| 🌐 Frontend | 🔥 Backend |
+|------------|-----------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) |
+| ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Django REST Framework](https://img.shields.io/badge/-DRF-red?style=flat&logo=django) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) |
+| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) |
 
-### 🔥 Backend  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
-![Django REST Framework](https://img.shields.io/badge/-DRF-red?style=flat&logo=django)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-
-### 🛢️ Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)  
-
-### 🏗️ DevOps & Cloud  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)  
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Shell Scripting](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+### 🛢️ Databases & DevOps  
+- **Databases:** PostgreSQL, MySQL, SQLite, Redis  
+- **DevOps & Deployment:** Docker, NGINX, Gunicorn, GitHub Actions, Linux, Shell Scripting  
 
 ---
 
